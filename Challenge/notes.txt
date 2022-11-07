@@ -1,0 +1,10 @@
+This chapter will be Project-based. We will create a Car rental agency. 
+
+The Car agency should show the availability of the cars, 
+the make, and models of the cars, price, and location of the specific rental place.
+
+The second thing you need to do is to create user-friendly GUI rendering. 
+You should use Bootstrap elements to create GUI for this project. 
+Come up with an idea of which data you would like to present and which pages 
+(forms, tables) you need in your GUI part and create them. 
+
