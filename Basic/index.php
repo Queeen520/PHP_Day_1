@@ -17,10 +17,8 @@ Use external CSS to position your name in the middle of the screen (horizontal, 
 <?php 
 $myName = "Isabella Windhaber";
 
-echo $myName;
+echo "<h1>$myName</h1>";
 ?>
-
-
 
 
 

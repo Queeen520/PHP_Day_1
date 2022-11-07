@@ -13,5 +13,11 @@ create an array that has names Mark, John, Georg and Lisa,
 print the 3rd player on the screen like this: 
 "the third player in the team is 3rd_player".
 --> 
+
+<?php 
+$names = ["Mark", "John", "George", "Lisa"];
+
+echo "The third player in the team is $names[2]"
+?>
 </body>
 </html>
