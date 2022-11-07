@@ -1,0 +1,16 @@
+how to print arrays : 
+
+echo "<pre>";
+print_r($array_name); 
+echo "</pre>";
+
+To get more details:
+echo "<pre>";
+var_dump($array_name); 
+echo "</pre>";
+
+__________________________________________
+
+add a key and its value to an array :
+
+$array_name["key"] = "value";
